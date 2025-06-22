@@ -4,7 +4,7 @@ const repo = "text-input-component";
 
 const nextConfig: NextConfig = {
   basePath: `/${repo}`,
-  assetPrefix: `/${repo}`,
+  assetPrefix: `/${repo}/`,
   output: "export",
 
 };
